@@ -9,7 +9,17 @@
   "author": "GAN Integrity",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "7.0.0",
-    "node-fetch": "^2.6.1"
-  }
+    "express": "^4.19.2",
+    "fs-extra": "^7.0.1",
+    "node-fetch": "^2.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandevops/backend-code-challenge.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gandevops/backend-code-challenge/issues"
+  },
+  "homepage": "https://github.com/gandevops/backend-code-challenge#readme"
 }
